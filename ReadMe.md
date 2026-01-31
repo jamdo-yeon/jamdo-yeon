@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>- Productive Days (Flutter app with FastAPI backend)<br><br>🤝 I’m looking for help with<br>- Backend architecture & scalability<br>- Cloud deployment best practices (AWS)<br><br>🌱 I’m currently learning<br>- Introduction to Robotics<br>- Sensors, control systems, and system modeling<br>- Mechanical & electrical system integration<br><br>💬 Ask me about<br>- FastAPI, Flutter, Docker<br>- Systems engineering projects<br>- App & web development from scratch<br><br>⚡ Fun fact<br>- I enjoy connecting software with real-world systems—from circuits and CAD to control and robotics.<br>
+🔭 I’m currently working on<br>- Productive Days (Flutter app with FastAPI backend)<br><br>🤝 I’m looking for help with<br>- Backend architecture & scalability<br>- Cloud deployment best practices (AWS)<br><br>🌱 I’m currently learning<br>- Introduction to Robotics<br>- Sensors, control systems, and system modeling<br>- Mechanical & electrical system integration<br><br>💬 Ask me about<br>- FastAPI, Flutter, Docker<br>- Systems engineering projects<br>- App & web development from scratch<br><br>⚡ Fun fact<br>- I enjoy connecting software with real-world systems from circuits and CAD to control and robotics.<br>
 
 
 ## 🌐 Socials:
